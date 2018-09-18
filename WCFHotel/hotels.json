@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "Name": "Hyatt",
+    "Address": "Viman Nagar",
+    "StarRating": 4.2
+  },
+  {
+    "ID": 2,
+    "Name": "Novotel",
+    "Address": "Viman Nagar",
+    "StarRating": 4.5
+  },
+  {
+    "ID": 3,
+    "Name": "Nala",
+    "Address": "Namkkal",
+    "StarRating": 4.2
+  },
+  {
+    "ID": 4,
+    "Name": "Residency",
+    "Address": "Karur",
+    "StarRating": 4.2
+  }
+]
