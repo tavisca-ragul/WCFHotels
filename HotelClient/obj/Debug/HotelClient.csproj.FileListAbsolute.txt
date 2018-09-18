@@ -1,0 +1,6 @@
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\bin\Debug\HotelClient.exe.config
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\bin\Debug\HotelClient.exe
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\bin\Debug\HotelClient.pdb
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\obj\Debug\HotelClient.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\obj\Debug\HotelClient.exe
+C:\Users\rkrishnan\source\repos\WCFHotel\HotelClient\obj\Debug\HotelClient.pdb

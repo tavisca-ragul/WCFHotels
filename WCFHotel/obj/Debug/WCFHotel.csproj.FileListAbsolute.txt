@@ -1,0 +1,9 @@
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\bin\Debug\WCFHotel.dll.config
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\bin\Debug\WCFHotel.dll
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\bin\Debug\WCFHotel.pdb
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\obj\Debug\WCFHotel.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\obj\Debug\WCFHotel.csproj.CopyComplete
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\obj\Debug\WCFHotel.dll
+C:\Users\rkrishnan\source\repos\WCFHotel\WCFHotel\obj\Debug\WCFHotel.pdb
